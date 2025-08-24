@@ -1,20 +1,3 @@
-Perfect — thanks for the context. I see your repo **`deevXO/CineAI`** has only:
-
-* `app.py` (Streamlit frontend + API config inside UI)
-* `movie_agent.db` (SQLite3 database)
-* `requirements.txt`
-* `README.md`
-
-That means:
-
-* No `modules/` folder etc. (so README must not oversell nonexistent structure).
-* You’re handling **API key configuration inside the frontend** → so no `.env` setup needed.
-* SQLite is baked in, so no external DB setup required.
-
-Here’s a **polished, realistic README** tailored to your repo state (with your demo + repo link):
-
----
-
 # 🎬 CineAI — AI Movie Production Agent
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=Streamlit\&logoColor=white)](https://streamlit.io/)
