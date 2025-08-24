@@ -54,4 +54,4 @@ CineAI is an intelligent movie production assistant that helps filmmakers, write
 1. **Clone the repository**
    ```bash
    git clone https://github.com/deevXO/CineAI.git
-   cd cine-ai
+   cd CineAI
