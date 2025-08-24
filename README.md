@@ -9,8 +9,6 @@
 
 CineAI is an intelligent movie production assistant that helps filmmakers, writers, and producers develop compelling movie concepts using advanced AI technology.
 
-![CineAI Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=CineAI+Movie+Production+Agent)
-
 ## ✨ Features
 
 ### 🎭 AI-Powered Script Writing
